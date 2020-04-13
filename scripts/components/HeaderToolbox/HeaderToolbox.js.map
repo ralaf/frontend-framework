@@ -1,0 +1,1 @@
+{"version":3,"file":"HeaderToolbox.js","sourceRoot":"","sources":["HeaderToolbox.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA,sDAAsD;IACtD,uDAAuD;IACvD,6CAAwC;IACxC,8EAAyE;IAEzE,MAAa,aAAc,SAAQ,qCAAiB;QACzC,KAAK;YACR,IAAI,CAAC,gBAAgB,GAAG,aAAK,CAAC,yBAAyB,CAAC,QAA6B,EAAE,UAA+B,CAAgB,CAAC;YAEvI,IAAI,CAAC,UAAU,EAAE,CAAC;QACtB,CAAC;QAEM,UAAU;QAEjB,CAAC;KACJ;IAVD,sCAUC"}

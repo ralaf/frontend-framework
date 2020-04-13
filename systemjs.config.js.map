@@ -1,0 +1,1 @@
+{"version":3,"file":"systemjs.config.js","sourceRoot":"","sources":["systemjs.config.ts"],"names":[],"mappings":"AAAA,QAAQ,CAAC,MAAM,CAAC;IACZ,OAAO,EAAE,IAAI;IACb,gBAAgB,EAAE,IAAI;IACtB,uDAAuD;IACvD,GAAG,EAAE;QACD,IAAI,EAAE,6CAA6C;QACnD,GAAG,EAAE,yCAAyC;KACjD;IACD,oFAAoF;IACpF,QAAQ,EAAE;QACN,GAAG,EAAE;YACD,gBAAgB,EAAE,IAAI;SACzB;KACJ;CACJ,CAAC,CAAC"}
