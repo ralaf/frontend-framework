@@ -88,9 +88,9 @@ http-server@^0.12.1:
     union "~0.5.0"
 
 lodash@^4.17.14:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 mime@^1.6.0:
   version "1.6.0"
@@ -171,7 +171,7 @@ systemjs-plugin-json@^0.3.0:
   resolved "https://registry.yarnpkg.com/systemjs-plugin-json/-/systemjs-plugin-json-0.3.0.tgz#23f2492dea7e46a060bc5d14ba983ee2b60cf2d5"
   integrity sha1-I/JJLep+RqBgvF0Uupg+4rYM8tU=
 
-systemjs-plugin-text@0.0.11:
+systemjs-plugin-text@^0.0.11:
   version "0.0.11"
   resolved "https://registry.yarnpkg.com/systemjs-plugin-text/-/systemjs-plugin-text-0.0.11.tgz#852c254c436ae34258c80627ab72a490e0d5c7c0"
   integrity sha512-buWE27P6iM3WZYXcsiy6+fiulQ/x+Puux4ni5ejTlcUgqUg3/sUvoAUZ4GGPACC0acjxmnaCt3kHb0+uNs1ekw==
@@ -181,10 +181,10 @@ systemjs@^0.21.4:
   resolved "https://registry.yarnpkg.com/systemjs/-/systemjs-0.21.6.tgz#9d15e79d9f60abbac23f0d179f887ec01f260a1b"
   integrity sha512-R+5S9eV9vcQgWOoS4D87joZ4xkFJHb19ZsyKY07D1+VBDE9bwYcU+KXE0r5XlDA8mFoJGyuWDbfrNoh90JsA8g==
 
-typescript@^3.7.5:
-  version "3.7.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.5.tgz#0692e21f65fd4108b9330238aac11dd2e177a1ae"
-  integrity sha512-/P5lkRXkWHNAbcJIiHPfRoKqyd7bsyCma1hZNUGfn20qm64T6ZBlrzprymeu918H+mB/0rIg2gGK/BXkhhYgBw==
+typescript@^3.8.3:
+  version "3.9.7"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.7.tgz#98d600a5ebdc38f40cb277522f12dc800e9e25fa"
+  integrity sha512-BLbiRkiBzAwsjut4x/dsibSTB6yWpwT5qWmC2OfuCg3GgVQCSgMs4vEctYPhsaGtd0AeuuHMkjZ2h2WG8MSzRw==
 
 union@~0.5.0:
   version "0.5.0"
